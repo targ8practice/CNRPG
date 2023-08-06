@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "d64665beb8e9216a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9d700430c520fb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13e6432ec22ad187",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Playtest/CNRPG Alpha Playtest.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc04696eea12578f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4387457602da6ef2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4676990e85729e85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1121277025244ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a5e05f844a25035",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0c1ba9e97ade3be",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d68e39eac5d2aed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee44cd3ae99578a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Playtest/CNRPG Alpha Playtest.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbe62a8d5a92f485",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Playtest/CNRPG Alpha Playtest.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5ca98f2e1d40647",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef216dbb68d6b428",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Playtest/CNRPG Alpha Playtest.pdf"
+              }
+            }
+          },
+          {
+            "id": "3c0eab0aba15c335",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "13e6432ec22ad187",
+  "lastOpenFiles": [
+    "obsidian-sync",
+    "Playtest/Campaign Setting/Character Sheet.md",
+    "Skills.md",
+    "Skill Wheel.png",
+    "Pasted Image 20230724162347_663.png",
+    "Pasted Image 20230724162314_661.png",
+    "Playtest/Campaign Setting/PZO9520E.pdf",
+    "Playtest/Campaign Setting/Religion & Magic.md",
+    "Playtest/CNRPG Alpha Playtest.pdf",
+    "Playtest/Campaign Setting/Characters.md",
+    "Playtest/Campaign Setting/Campaign Setting Overview.md",
+    "Attributes.md",
+    "Character Details.md",
+    "Playtest/Playtest rules.md",
+    "Combat.md",
+    "Playtest/Campaign Setting",
+    "Overview.md",
+    "Playtest",
+    "Class.md",
+    "Character Information.md",
+    "Lineage.md",
+    "Class/Profession.md",
+    "Class"
+  ]
+}
