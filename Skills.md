@@ -10,7 +10,7 @@
 |           | Craft      |           | Larceny   |
 |           | Trade      |           | Deception        |
 
-Magic?
+
 
 
 ![[Skill Wheel.png]]
