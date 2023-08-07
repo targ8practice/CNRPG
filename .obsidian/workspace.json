@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Details.md",
+                "file": "Skills.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Details.md",
+                "file": "Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Details.md",
+                "file": "Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Details.md"
+                "file": "Skills.md"
               }
             }
           },
@@ -155,6 +155,12 @@
   },
   "active": "83f1e90e1c809fd2",
   "lastOpenFiles": [
+    "Skill Wheel.png",
+    "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
+    "Playtest/Campaign Setting/PZO9520E.pdf",
+    "Overview.md",
+    "Lineage.md",
+    "Character Details.md",
     "Playtest/Campaign Setting/Campaign Setting Overview.md",
     "Class.md",
     "Cleric.md",
@@ -162,24 +168,18 @@
     "Playtest/Campaign Setting/Characters.md",
     "Untitled.canvas",
     "Playtest/Campaign Setting/Religion & Magic.md",
-    "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
-    "Playtest/Campaign Setting/PZO9520E.pdf",
     "Playtest/Campaign Setting/Character Sheet.md",
     "Playtest/CNRPG Alpha Playtest.pdf",
     "obsidian-sync",
     "Skills.md",
-    "Skill Wheel.png",
     "Pasted Image 20230724162347_663.png",
     "Pasted Image 20230724162314_661.png",
     "Attributes.md",
-    "Character Details.md",
     "Playtest/Playtest rules.md",
     "Combat.md",
     "Playtest/Campaign Setting",
-    "Overview.md",
     "Playtest",
     "Character Information.md",
-    "Lineage.md",
     "Class/Profession.md",
     "Class"
   ]
