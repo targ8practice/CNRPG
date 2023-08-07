@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skills.md",
+                "file": "Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skills.md",
+                "file": "Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skills.md",
+                "file": "Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skills.md"
+                "file": "Overview.md"
               }
             }
           },
@@ -155,8 +155,13 @@
   },
   "active": "83f1e90e1c809fd2",
   "lastOpenFiles": [
-    "Overview.md",
+    "Pasted image 20230807190425.png",
     "Playtest/CNRPG Alpha Playtest.pdf",
+    "Overview.md",
+    "Pasted image 20230807190350.png",
+    "Playtest/Playtest Campaign/Characters.md",
+    "Playtest/Playtest Campaign/PZO9520E.pdf",
+    "Skills.md",
     "Modus Operandi (Class).md",
     "Dice Mechanics Table.png",
     "Dice Probability Table.png",
@@ -166,14 +171,11 @@
     "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
     "Character Details.md",
     "Combat.md",
-    "Skills.md",
     "Skill Wheel.png",
-    "Playtest/Playtest Campaign/PZO9520E.pdf",
     "Lineage.md",
     "Playtest/Playtest Campaign/Campaign Setting Overview.md",
     "Cleric.md",
     "Playtest/Campaign Setting/Untitled Kanban.md",
-    "Playtest/Playtest Campaign/Characters.md",
     "Untitled.canvas",
     "Playtest/Playtest Campaign/Religion & Magic.md",
     "obsidian-sync",

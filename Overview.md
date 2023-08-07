@@ -6,6 +6,9 @@
 
 ![[Dice Mechanics Table.png]]
 
+![[Pasted image 20230807190350.png]]
+
+![[Pasted image 20230807190425.png]]
 [[Attributes]]
 
 [[Skills]]
