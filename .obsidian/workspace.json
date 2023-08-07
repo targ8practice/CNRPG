@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modus Operandi (Class).md",
+                "file": "Skills.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modus Operandi (Class).md",
+                "file": "Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modus Operandi (Class).md",
+                "file": "Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modus Operandi (Class).md"
+                "file": "Skills.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,6 +156,8 @@
   "active": "83f1e90e1c809fd2",
   "lastOpenFiles": [
     "Overview.md",
+    "Playtest/CNRPG Alpha Playtest.pdf",
+    "Modus Operandi (Class).md",
     "Dice Mechanics Table.png",
     "Dice Probability Table.png",
     "Pasted Image 20230724162347_663.png",
@@ -163,7 +166,6 @@
     "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
     "Character Details.md",
     "Combat.md",
-    "Modus Operandi (Class).md",
     "Skills.md",
     "Skill Wheel.png",
     "Playtest/Playtest Campaign/PZO9520E.pdf",
@@ -174,7 +176,6 @@
     "Playtest/Playtest Campaign/Characters.md",
     "Untitled.canvas",
     "Playtest/Playtest Campaign/Religion & Magic.md",
-    "Playtest/CNRPG Alpha Playtest.pdf",
     "obsidian-sync",
     "Attributes.md",
     "Playtest/Playtest rules.md",

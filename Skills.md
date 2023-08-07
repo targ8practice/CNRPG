@@ -11,9 +11,3 @@
 |           | Trade      |            | Deception     |
 
 
-
-
-![[Skill Wheel.png]]
-
-
-> Magic as a skill?
