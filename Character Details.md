@@ -5,7 +5,7 @@ Age
 Gender
 [[Magic]]
 [[Lineage]]
-[[Class]]
+[[Modus Operandi (Class)]]
 [[Attributes]]
 [[Skills]]
 [[Character Information|Health]]

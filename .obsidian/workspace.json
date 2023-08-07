@@ -11,9 +11,11 @@
             "id": "83f1e90e1c809fd2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Playtest/Campaign Setting/Character Sheet.md"
+                "file": "Modus Operandi (Class).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playtest/Campaign Setting/Character Sheet.md",
+                "file": "Modus Operandi (Class).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playtest/Campaign Setting/Character Sheet.md",
+                "file": "Modus Operandi (Class).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playtest/Campaign Setting/Character Sheet.md"
+                "file": "Modus Operandi (Class).md"
               }
             }
           },
@@ -140,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,29 +155,30 @@
   "active": "83f1e90e1c809fd2",
   "lastOpenFiles": [
     "Overview.md",
-    "Pasted image 20230807180423.png",
-    "Skills.md",
-    "Skill Wheel.png",
-    "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
-    "Playtest/Campaign Setting/PZO9520E.pdf",
-    "Lineage.md",
-    "Character Details.md",
-    "Playtest/Campaign Setting/Campaign Setting Overview.md",
-    "Class.md",
-    "Cleric.md",
-    "Playtest/Campaign Setting/Untitled Kanban.md",
-    "Playtest/Campaign Setting/Characters.md",
-    "Untitled.canvas",
-    "Playtest/Campaign Setting/Religion & Magic.md",
-    "Playtest/Campaign Setting/Character Sheet.md",
-    "Playtest/CNRPG Alpha Playtest.pdf",
-    "obsidian-sync",
+    "Dice Mechanics Table.png",
+    "Dice Probability Table.png",
     "Pasted Image 20230724162347_663.png",
     "Pasted Image 20230724162314_661.png",
+    "Playtest/Playtest Campaign/Character Sheet.md",
+    "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
+    "Character Details.md",
+    "Combat.md",
+    "Modus Operandi (Class).md",
+    "Skills.md",
+    "Skill Wheel.png",
+    "Playtest/Playtest Campaign/PZO9520E.pdf",
+    "Lineage.md",
+    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
+    "Cleric.md",
+    "Playtest/Campaign Setting/Untitled Kanban.md",
+    "Playtest/Playtest Campaign/Characters.md",
+    "Untitled.canvas",
+    "Playtest/Playtest Campaign/Religion & Magic.md",
+    "Playtest/CNRPG Alpha Playtest.pdf",
+    "obsidian-sync",
     "Attributes.md",
     "Playtest/Playtest rules.md",
-    "Combat.md",
-    "Playtest/Campaign Setting",
+    "Playtest/Playtest Campaign",
     "Playtest",
     "Character Information.md",
     "Class/Profession.md",
