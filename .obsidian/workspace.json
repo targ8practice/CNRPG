@@ -11,11 +11,14 @@
             "id": "83f1e90e1c809fd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "Playtest Alpha 02.canvas",
+                "viewState": {
+                  "x": -46.121096368588695,
+                  "y": 463.6982064951112,
+                  "zoom": 0.6363626000048496
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Skill Wheel.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Skill Wheel.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "Skill Wheel.png"
               }
             }
           },
@@ -155,31 +158,32 @@
   },
   "active": "83f1e90e1c809fd2",
   "lastOpenFiles": [
-    "Pasted image 20230807190425.png",
     "Playtest/CNRPG Alpha Playtest.pdf",
-    "Overview.md",
+    "Attributes.md",
+    "Playtest Alpha 02.canvas",
     "Pasted image 20230807190350.png",
+    "Pasted image 20230807190425.png",
+    "Modus Operandi (Class).md",
+    "Skills.md",
+    "Combat.md",
+    "Lineage.md",
+    "Character Details.md",
+    "Untitled",
+    "Overview.md",
     "Playtest/Playtest Campaign/Characters.md",
     "Playtest/Playtest Campaign/PZO9520E.pdf",
-    "Skills.md",
-    "Modus Operandi (Class).md",
     "Dice Mechanics Table.png",
     "Dice Probability Table.png",
     "Pasted Image 20230724162347_663.png",
     "Pasted Image 20230724162314_661.png",
     "Playtest/Playtest Campaign/Character Sheet.md",
     "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
-    "Character Details.md",
-    "Combat.md",
     "Skill Wheel.png",
-    "Lineage.md",
     "Playtest/Playtest Campaign/Campaign Setting Overview.md",
     "Cleric.md",
     "Playtest/Campaign Setting/Untitled Kanban.md",
-    "Untitled.canvas",
     "Playtest/Playtest Campaign/Religion & Magic.md",
     "obsidian-sync",
-    "Attributes.md",
     "Playtest/Playtest rules.md",
     "Playtest/Playtest Campaign",
     "Playtest",
