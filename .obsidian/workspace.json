@@ -11,14 +11,9 @@
             "id": "83f1e90e1c809fd2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Playtest Alpha 02.canvas",
-                "viewState": {
-                  "x": -46.121096368588695,
-                  "y": 463.6982064951112,
-                  "zoom": 0.6363626000048496
-                }
+                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md"
               }
             }
           }
@@ -88,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skill Wheel.png",
+                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skill Wheel.png",
+                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skill Wheel.png"
+                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md"
               }
             }
           },
@@ -153,18 +148,21 @@
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-excalidraw-plugin:Create new drawing": true
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "83f1e90e1c809fd2",
   "lastOpenFiles": [
+    "Skills.md",
+    "Playtest/Playtest Campaign/Character Sheet V1.1.md",
+    "Skill Wheel.png",
+    "Playtest Alpha 02.canvas",
+    "Playtest/Playtest Campaign/Character Sheet V1.md",
     "Playtest/CNRPG Alpha Playtest.pdf",
     "Attributes.md",
-    "Playtest Alpha 02.canvas",
     "Pasted image 20230807190350.png",
     "Pasted image 20230807190425.png",
     "Modus Operandi (Class).md",
-    "Skills.md",
     "Combat.md",
     "Lineage.md",
     "Character Details.md",
@@ -176,9 +174,7 @@
     "Dice Probability Table.png",
     "Pasted Image 20230724162347_663.png",
     "Pasted Image 20230724162314_661.png",
-    "Playtest/Playtest Campaign/Character Sheet.md",
     "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
-    "Skill Wheel.png",
     "Playtest/Playtest Campaign/Campaign Setting Overview.md",
     "Cleric.md",
     "Playtest/Campaign Setting/Untitled Kanban.md",
