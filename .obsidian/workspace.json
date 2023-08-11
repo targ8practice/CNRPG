@@ -11,9 +11,9 @@
             "id": "83f1e90e1c809fd2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md"
+                "file": "Skill Wheel.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md",
+                "file": "Skill Wheel.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md",
+                "file": "Skill Wheel.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md"
+                "file": "Skill Wheel.png"
               }
             }
           },
@@ -151,13 +151,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83f1e90e1c809fd2",
+  "active": "4676990e85729e85",
   "lastOpenFiles": [
     "Skills.md",
+    "Skill Wheel.png",
+    "Playtest/Playtest Campaign/Character Sheet V1.1.md",
     "Pasted image 20230807190350.png",
     "Pasted image 20230807190425.png",
-    "Playtest/Playtest Campaign/Character Sheet V1.1.md",
-    "Skill Wheel.png",
     "Playtest Alpha 02.canvas",
     "Playtest/Playtest Campaign/Character Sheet V1.md",
     "Playtest/CNRPG Alpha Playtest.pdf",
