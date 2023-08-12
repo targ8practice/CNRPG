@@ -4,20 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "f778aee8127894e5",
+        "id": "a7f86e5745bd920c",
         "type": "tabs",
         "children": [
           {
-            "id": "83f1e90e1c809fd2",
+            "id": "e0e719d8ee21ea5e",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Skill Wheel.png"
+                "file": "Images/Dice Mechanics Table.png"
+              }
+            }
+          },
+          {
+            "id": "882871981298a7de",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Playtest/Playtest Alpha 02.canvas",
+                "viewState": {
+                  "x": -160,
+                  "y": -46.5,
+                  "zoom": -1.0887961371653023
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skill Wheel.png",
+                "file": "Playtest/Playtest Alpha 02.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skill Wheel.png",
+                "file": "Playtest/Playtest Alpha 02.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skill Wheel.png"
+                "file": "Playtest/Playtest Alpha 02.canvas"
               }
             }
           },
@@ -132,6 +148,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6970f53f1e2c144c",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
@@ -148,34 +172,35 @@
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "4676990e85729e85",
+  "active": "882871981298a7de",
   "lastOpenFiles": [
     "Skills.md",
-    "Skill Wheel.png",
-    "Playtest/Playtest Campaign/Character Sheet V1.1.md",
-    "Pasted image 20230807190350.png",
-    "Pasted image 20230807190425.png",
-    "Playtest Alpha 02.canvas",
-    "Playtest/Playtest Campaign/Character Sheet V1.md",
-    "Playtest/CNRPG Alpha Playtest.pdf",
-    "Attributes.md",
+    "Overview.md",
     "Modus Operandi (Class).md",
     "Combat.md",
+    "Images/Attribute Score Example.png",
+    "Images/Base Difficulty Score.png",
+    "Images/Dice Probability Table.png",
+    "Images/Dice Mechanics Table.png",
+    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
+    "Images",
+    "Attributes.md",
+    "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
+    "Playtest/CNRPG Alpha Playtest.pdf",
+    "Playtest/Playtest Alpha 02.canvas",
+    "Images/Skill Wheel.png",
+    "Playtest/Playtest Campaign/Character Sheet V1.1.md",
+    "Playtest/Playtest Campaign/Character Sheet V1.md",
     "Lineage.md",
     "Character Details.md",
-    "Untitled",
-    "Overview.md",
     "Playtest/Playtest Campaign/Characters.md",
     "Playtest/Playtest Campaign/PZO9520E.pdf",
-    "Dice Mechanics Table.png",
-    "Dice Probability Table.png",
     "Pasted Image 20230724162347_663.png",
     "Pasted Image 20230724162314_661.png",
-    "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
-    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
     "Cleric.md",
     "Playtest/Campaign Setting/Untitled Kanban.md",
     "Playtest/Playtest Campaign/Religion & Magic.md",

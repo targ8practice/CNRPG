@@ -7,3 +7,13 @@ Players can either choose ONE of the following:
 Once players have chosen their Primary skill(s) they then assign score to them.
 
 When creating your character, you are given the following scores: 4,3,3,2,2,2.  Assign them to all the Skills.  However the Primary skill you can then assign points to the Expanded skills equal to the core skill.
+
+List of MOs
+* Cleric
+* Merchant
+* Ranger
+* Sage
+* Survivalist
+* Thief
+* Warrior
+* Wizard

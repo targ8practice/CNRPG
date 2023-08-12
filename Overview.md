@@ -6,9 +6,9 @@
 
 ![[Dice Mechanics Table.png]]
 
-![[Pasted image 20230807190350.png]]
+![[Base Difficulty Score.png]]
 
-![[Pasted image 20230807190425.png]]
+![[Attribute Score Example.png]]
 [[Attributes]]
 
 [[Skills]]
