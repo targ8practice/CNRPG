@@ -19,3 +19,11 @@ When you surprise a target or you're attacking the same target as another player
 You are excellent at weapons work, gain +1 AS when you attack with a weapon.
 ### Know It All (Sage)
 Your esoteric knowledge about a lot of subjects means you can add your MO to any skill-related check.
+
+Merchant
+
+Ranger
+
+Survivalist
+
+
