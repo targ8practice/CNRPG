@@ -17,9 +17,9 @@ Players have access to all the core skills, but the MO's will allow them to gain
 Combat
 Magic
 
-Athletics
-Education
-Social
-Survival
-Skulduggery
+Athletics - Climb, swim, Acrobatics
+Education - knowledge, craft, medicine 
+Communication - Intimidate, Diplomacy, Insight
+Survival - Foraging, Tracking, Handle animal
+Skulduggery - Stealth, Pick lock, disarm traps
 
