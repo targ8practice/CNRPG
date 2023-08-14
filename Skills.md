@@ -13,4 +13,13 @@
 
 Players have access to all the core skills, but the MO's will allow them to gain access to the Expanded skills
 
+**Skill list**
+Combat
+Magic
+
+Athletics
+Education
+Social
+Survival
+Skulduggery
 
