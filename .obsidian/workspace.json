@@ -28,9 +28,21 @@
                 "file": "Images/Dice Mechanics Table.png"
               }
             }
+          },
+          {
+            "id": "ecc4984b3d95fa96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playtest Player's Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Dice Mechanics Table.png",
+                "file": "Playtest Player's Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Dice Mechanics Table.png",
+                "file": "Playtest Player's Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Dice Mechanics Table.png"
+                "file": "Playtest Player's Guide.md"
               }
             }
           },
@@ -173,8 +185,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "38d752da1eb3fb34",
+  "active": "ecc4984b3d95fa96",
   "lastOpenFiles": [
+    "Images/Dice Mechanics Table.png",
+    "Playtest Player's Guide.md",
     "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
     "Playtest/Playtest Alpha 02.canvas",
     "Playtest/Playtest Campaign/Campaign Setting Overview.md",
@@ -190,7 +204,6 @@
     "Images/Dice Probability Table.png",
     "Playtest/Playtest Campaign/Character Sheet V1.1.md",
     "Images/Skill Wheel.png",
-    "Images/Dice Mechanics Table.png",
     "Images/Attribute Score Example.png",
     "Images/Base Difficulty Score.png",
     "Images",
