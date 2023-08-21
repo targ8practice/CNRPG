@@ -11,13 +11,26 @@
             "id": "05d5618a61161abe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Playtest/CNRPG Alpha Playtest.pdf"
+                "file": "Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38d752da1eb3fb34",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Dice Mechanics Table.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playtest/CNRPG Alpha Playtest.pdf",
+                "file": "Images/Dice Mechanics Table.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playtest/CNRPG Alpha Playtest.pdf",
+                "file": "Images/Dice Mechanics Table.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playtest/CNRPG Alpha Playtest.pdf"
+                "file": "Images/Dice Mechanics Table.png"
               }
             }
           },
@@ -160,20 +173,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4676990e85729e85",
+  "active": "38d752da1eb3fb34",
   "lastOpenFiles": [
+    "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
+    "Playtest/Playtest Alpha 02.canvas",
+    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
+    "CNRPG Playtest Players Guide.md",
     "Overview.md",
+    "Skills.md",
     "Modus Operandi (Class).md",
     "Combat.md",
     "Attributes.md",
-    "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
-    "Playtest/Playtest Alpha 02.canvas",
     "Playtest/CNRPG Alpha Playtest.pdf",
     "Playtest/Playtest Campaign/Religion & Magic.md",
     "Playtest/Playtest Campaign/Characters.md",
-    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
     "Images/Dice Probability Table.png",
-    "Skills.md",
     "Playtest/Playtest Campaign/Character Sheet V1.1.md",
     "Images/Skill Wheel.png",
     "Images/Dice Mechanics Table.png",
