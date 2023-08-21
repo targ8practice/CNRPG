@@ -21,9 +21,7 @@ To resolve **checks** in CNRPG, use the steps listed below:
 >Open Ended Dice Rolls
 >When you roll the dice, if its maximum value on the dice, roll it again and add it to the total.
 
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
+
 
 ## Setting Your Action Score
 Action Scores are calculated in the following manner:
@@ -58,9 +56,7 @@ Action Scores are calculated in the following manner:
 | 14           | 2d6+d6  |
 | 15           | 3d6+d8  |
 
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
+
 
 # Character Statistics
 ## Attributes 
@@ -97,9 +93,7 @@ Spirit reflects the character’s empathy, presence, and awareness. It also repr
 **Starting Attributes**
 For our playtest, if you want to make your own character, you will begin with the following attribute scores: **2, 2, 3, 3, 4**. Assign one of these numbers to each of your attributes.
 
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
+
 
 ## Skills 
 
@@ -119,9 +113,7 @@ Below is a list of skills that are used in this playtest, each skill has an asso
 
 >Combat Skill note:  All characters are considered to have some combat training to defend themselves, so when using the Combat Skill in battle, you can apply your MO to it.
 
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
+
 
 ## Modus Operandi
 
@@ -162,9 +154,7 @@ Warriors are trained for one mission—to defeat the enemy in battle! They engag
 ### Wizard
 Masters of the arcane arts, wizards are powerful spellcasters and keepers of forbidden lore. They are privy to the metaphysical secrets of the universe and the magical forces at play in the world. They have knowledge of magical and magically altered beasts, basic skills in alchemy, and can sense the presence of magic and possibly identify its nature. 
 **Special Feature:** Arcane Power
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
+
 
 # Modus Operandi Special Features Rules Module
 
@@ -202,9 +192,7 @@ Add +1 to your AS when making Wilderness skill checks to find food and shelter
 You can use the Communication skill to interact with animals. This doesn’t mean you can talk to them but you can interpret their actions.
 ### Silver Tongue
 You know how to get the best deal out of any situation, Add +1 AS when using the communication skill when selling or buying goods.
-<div style="page-break-after: always; visibility: hidden">
-\pagebreak
-</div>
+
 
 # Quick & Dirty Combat
 This is a placeholder for a combat system
