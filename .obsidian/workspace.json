@@ -33,9 +33,11 @@
             "id": "ecc4984b3d95fa96",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Playtest/Playtest Campaign/PZO9520E.pdf"
+                "file": "Playtest/Playtest Campaign/Campaign Setting Overview.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playtest/Playtest Campaign/PZO9520E.pdf",
+                "file": "Playtest/Playtest Campaign/Campaign Setting Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playtest/Playtest Campaign/PZO9520E.pdf",
+                "file": "Playtest/Playtest Campaign/Campaign Setting Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playtest/Playtest Campaign/PZO9520E.pdf"
+                "file": "Playtest/Playtest Campaign/Campaign Setting Overview.md"
               }
             }
           },
@@ -185,20 +187,22 @@
   },
   "active": "ecc4984b3d95fa96",
   "lastOpenFiles": [
-    "Playtest Player's Guide.md",
-    "Images/Dice Mechanics Table.png",
-    "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
-    "Playtest/Playtest Alpha 02.canvas",
-    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
-    "CNRPG Playtest Players Guide.md",
-    "Overview.md",
     "Skills.md",
+    "Playtest/Playtest Campaign/Online Sessions",
+    "Overview.md",
     "Modus Operandi (Class).md",
     "Combat.md",
     "Attributes.md",
-    "Playtest/CNRPG Alpha Playtest.pdf",
     "Playtest/Playtest Campaign/Religion & Magic.md",
+    "Playtest/Playtest Campaign/Playtest Player's Guide.md",
+    "Playtest/Playtest Campaign/CNRPG Playtest Players Guide.md",
+    "Playtest/Playtest Alpha 02.canvas",
+    "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
+    "Playtest/CNRPG Alpha Playtest.pdf",
     "Playtest/Playtest Campaign/Characters.md",
+    "Playtest/Playtest Campaign/PZO9520E.pdf",
+    "Images/Dice Mechanics Table.png",
+    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
     "Images/Dice Probability Table.png",
     "Playtest/Playtest Campaign/Character Sheet V1.1.md",
     "Images/Skill Wheel.png",
@@ -208,7 +212,6 @@
     "Playtest/Playtest Campaign/Character Sheet V1.md",
     "Lineage.md",
     "Character Details.md",
-    "Playtest/Playtest Campaign/PZO9520E.pdf",
     "Pasted Image 20230724162347_663.png",
     "Pasted Image 20230724162314_661.png",
     "Cleric.md",
