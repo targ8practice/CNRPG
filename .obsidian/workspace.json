@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playtest/Playtest Campaign/Campaign Setting Overview.md",
+                "file": "Attributes.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playtest/Playtest Campaign/Campaign Setting Overview.md",
+                "file": "Attributes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playtest/Playtest Campaign/Campaign Setting Overview.md",
+                "file": "Attributes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playtest/Playtest Campaign/Campaign Setting Overview.md"
+                "file": "Attributes.md"
               }
             }
           },
@@ -187,6 +187,8 @@
   },
   "active": "ecc4984b3d95fa96",
   "lastOpenFiles": [
+    "Playtest/Playtest Campaign/Character Sheet V1.md",
+    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
     "Skills.md",
     "Playtest/Playtest Campaign/Online Sessions",
     "Overview.md",
@@ -202,14 +204,12 @@
     "Playtest/Playtest Campaign/Characters.md",
     "Playtest/Playtest Campaign/PZO9520E.pdf",
     "Images/Dice Mechanics Table.png",
-    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
     "Images/Dice Probability Table.png",
     "Playtest/Playtest Campaign/Character Sheet V1.1.md",
     "Images/Skill Wheel.png",
     "Images/Attribute Score Example.png",
     "Images/Base Difficulty Score.png",
     "Images",
-    "Playtest/Playtest Campaign/Character Sheet V1.md",
     "Lineage.md",
     "Character Details.md",
     "Pasted Image 20230724162347_663.png",
