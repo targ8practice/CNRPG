@@ -8,41 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05d5618a61161abe",
+            "id": "d5ce14110879233e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38d752da1eb3fb34",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Dice Mechanics Table.png"
-              }
-            }
-          },
-          {
-            "id": "ecc4984b3d95fa96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attributes.md",
+                "file": "Playtest/Playtest Player's Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a0c1ba9e97ade3be",
@@ -108,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attributes.md",
+                "file": "Playtest/Playtest Player's Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attributes.md",
+                "file": "Playtest/Playtest Player's Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attributes.md"
+                "file": "Playtest/Playtest Player's Guide.md"
               }
             }
           },
@@ -161,7 +139,7 @@
             }
           },
           {
-            "id": "6970f53f1e2c144c",
+            "id": "fbe35ecd0a3ebe25",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -169,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,30 +163,31 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ecc4984b3d95fa96",
+  "active": "d5ce14110879233e",
   "lastOpenFiles": [
-    "Playtest/Playtest Campaign/Character Sheet V1.md",
-    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
-    "Skills.md",
-    "Playtest/Playtest Campaign/Online Sessions",
-    "Overview.md",
+    "Playtest/CNRPG Alpha Playtest.pdf",
+    "Playtest/Playtest Campaign/PZO9520E.pdf",
+    "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
+    "Playtest/Playtest Player's Guide.md",
     "Modus Operandi (Class).md",
+    "Skills.md",
+    "Overview.md",
     "Combat.md",
     "Attributes.md",
+    "Playtest/Playtest Campaign/Online Sessions/Session Notes.md",
+    "Images/Base Difficulty Score.png",
+    "Images/Attribute Score Example.png",
+    "Images/Dice Mechanics Table.png",
+    "Playtest/Playtest Campaign/Character Sheet V1.1.md",
+    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
+    "Playtest/Playtest Campaign/Character Sheet V1.md",
+    "Playtest/Playtest Campaign/Online Sessions",
     "Playtest/Playtest Campaign/Religion & Magic.md",
-    "Playtest/Playtest Campaign/Playtest Player's Guide.md",
     "Playtest/Playtest Campaign/CNRPG Playtest Players Guide.md",
     "Playtest/Playtest Alpha 02.canvas",
-    "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
-    "Playtest/CNRPG Alpha Playtest.pdf",
     "Playtest/Playtest Campaign/Characters.md",
-    "Playtest/Playtest Campaign/PZO9520E.pdf",
-    "Images/Dice Mechanics Table.png",
     "Images/Dice Probability Table.png",
-    "Playtest/Playtest Campaign/Character Sheet V1.1.md",
     "Images/Skill Wheel.png",
-    "Images/Attribute Score Example.png",
-    "Images/Base Difficulty Score.png",
     "Images",
     "Lineage.md",
     "Character Details.md",

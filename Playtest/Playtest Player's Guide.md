@@ -21,8 +21,6 @@ To resolve **checks** in CNRPG, use the steps listed below:
 >Open Ended Dice Rolls
 >When you roll the dice, if its maximum value on the dice, roll it again and add it to the total.
 
-
-
 ## Setting Your Action Score
 Action Scores are calculated in the following manner:
 **Attribute Score + Modus Operandi Score + Action Score Modifiers = Action Score**
@@ -61,8 +59,6 @@ Action Scores are calculated in the following manner:
 # Character Statistics
 ## Attributes 
 
-<div class="two-columns" style="--column-count: 3;">
-
 ### Strength
 This is the character’s ability to lift, carry, pull, push, and cause damage with melee attacks. Strength also reflects the character’s overall muscle mass and physical power.
 
@@ -78,8 +74,6 @@ Mind is a representation of the character’s willpower, intellect, and creativi
 ### Spirit
 Spirit reflects the character’s empathy, presence, and awareness. It also represents the character’s inherent wisdom, force of personality, ability to quickly process sensory information, and retain their composure in stressful situations. 
 
-</div>
-
 **Typical Attribute Scores**
 
 | Score | Example             |
@@ -92,13 +86,9 @@ Spirit reflects the character’s empathy, presence, and awareness. It also repr
 
 **Starting Attributes**
 For our playtest, if you want to make your own character, you will begin with the following attribute scores: **2, 2, 3, 3, 4**. Assign one of these numbers to each of your attributes.
-
-
-
 ## Skills 
 
 Below is a list of skills that are used in this playtest, each skill has an associated attribute.  When determing you Action Score for making a skill check, you add the appropriate Attribute, your Modus Operandi (If applicable) and any other appropriate modifiers. Players have access to all the core skills, but the Modus Operandi will grant them a bonus to the Action Score.
-
 ### Skill List
 
 | Skill         | Attribute     | Example of use                    |
@@ -112,8 +102,6 @@ Below is a list of skills that are used in this playtest, each skill has an asso
 | Skulduggery   | Co-ordination | Stealth, Pick lock, disarm traps  |
 
 >Combat Skill note:  All characters are considered to have some combat training to defend themselves, so when using the Combat Skill in battle, you can apply your MO to it.
-
-
 
 ## Modus Operandi
 
@@ -155,8 +143,7 @@ Warriors are trained for one mission—to defeat the enemy in battle! They engag
 Masters of the arcane arts, wizards are powerful spellcasters and keepers of forbidden lore. They are privy to the metaphysical secrets of the universe and the magical forces at play in the world. They have knowledge of magical and magically altered beasts, basic skills in alchemy, and can sense the presence of magic and possibly identify its nature. 
 **Special Feature:** Arcane Power
 
-
-# Modus Operandi Special Features Rules Module
+## Modus Operandi Special Features Rules Module
 
 This rules module focuses on creating special features that you can attach to a particular Modus Operandi (MO). When a player chooses a MO for their character, they will also get this Special Feature. If however they choose multiple MO’s, the Primary MO will be the one to gain the related special feature.
 
@@ -185,7 +172,7 @@ When you surprise a target or you're attacking the same target that's engaged wi
 ### Weapons Expert
 You are excellent at weapons work, add +1 AS when making a combat skill check. You can also use the **Combat Skill** when rolling initiative.
 ### Know It All
-Your esoteric knowledge about a lot of subjects means you can add your MO to any skill-related check. 
+Your esoteric knowledge about a lot of subjects means you can convey this to other characters.  As an Action, you make a DS 6 Education check to assist a character in a task. If you pass the check, you grant them a +1 to their Action Score.  But if you fail the roll, the Difficulty Score of the check increases by 1 instead.
 ### Prepper
 Add +1 to your AS when making Wilderness skill checks to find food and shelter
 ### Primal Affinity
@@ -193,8 +180,7 @@ You can use the Communication skill to interact with animals. This doesn’t mea
 ### Silver Tongue
 You know how to get the best deal out of any situation, Add +1 AS when using the communication skill when selling or buying goods.
 
-
-# Quick & Dirty Combat
+## Quick & Dirty Combat
 This is a placeholder for a combat system
 ### Health
 Your characters health is equal to the sum of your **Strength, Coordination, Toughness** attributes
@@ -205,5 +191,6 @@ When combat starts, make a **Coordination** check. The highest player goes first
 ### Combat
 #### Attacking
 On your turn, you can move up to 30ft and take an Action.  When using your action to attack, make a **Combat Skill Check**.  If your ASR >= DS, you deal damage equal to the difference.  You also add your **Strength Attribute** to the ASR when making melee attacks.
+
 #### Defending
 When you are being attacked, make a **Combat Skill Check**.  If the ASR <= DS, you take damage equal to the difference.  If you are wearing Armor, reduce the damage taken by this amount.
