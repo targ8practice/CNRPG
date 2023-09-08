@@ -33,9 +33,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50478b138b2c43d0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +179,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4676990e85729e85",
+  "active": "50478b138b2c43d0",
   "lastOpenFiles": [
     "References/Amaurea's Dawn.pdf",
     "Playtest/Playtest Player's Guide.md",
