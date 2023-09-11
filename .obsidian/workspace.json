@@ -28,24 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playtest/Playtest Player's Guide.md",
+                "file": "Combat.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "50478b138b2c43d0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playtest/Playtest Player's Guide.md",
+                "file": "Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playtest/Playtest Player's Guide.md",
+                "file": "Combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playtest/Playtest Player's Guide.md"
+                "file": "Combat.md"
               }
             }
           },
@@ -168,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,22 +168,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "50478b138b2c43d0",
+  "active": "b08201a927729660",
   "lastOpenFiles": [
-    "References/Amaurea's Dawn.pdf",
-    "Playtest/Playtest Player's Guide.md",
-    "Playtest/Playtest Campaign/Religion & Magic.md",
     "Playtest/Playtest Campaign/Character Sheet V1.1.md",
+    "Attributes 2.0.md",
+    "References/SWADE - Core Rulebook (v5.4).pdf",
+    "References/Shadow of the Demon Lord (updated November 5th 2017 update bookmarks).pdf",
+    "Combat.md",
+    "Modus Operandi (Class).md",
+    "Playtest/Playtest Player's Guide.md",
+    "References/Amaurea's Dawn.pdf",
+    "Playtest/Playtest Campaign/Religion & Magic.md",
     "Skills.md",
     "Playtest/Playtest Campaign/Character Sheet V1.md",
     "Playtest/Playtest Alpha 02.canvas",
     "Playtest/CNRPG Alpha Playtest.pdf",
     "Playtest/Playtest Campaign/PZO9520E.pdf",
     "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
-    "Modus Operandi (Class).md",
     "Overview.md",
-    "Combat.md",
-    "Attributes.md",
     "Playtest/Playtest Campaign/Online Sessions/Session Notes.md",
     "Images/Base Difficulty Score.png",
     "Images/Attribute Score Example.png",
@@ -217,7 +208,6 @@
     "Playtest/Playtest Campaign",
     "Playtest",
     "Character Information.md",
-    "Class/Profession.md",
-    "Class"
+    "Class/Profession.md"
   ]
 }

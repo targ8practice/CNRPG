@@ -5,15 +5,15 @@ Welcome to the Cool Name RPG Playtest.  This players guide will assist you in un
 > **Terminology**
 > **Check:** Anytime you need to roll dice or compare scores to determine if an action succeeds or fails, we call it a check. 
 > **Score:** A numeric value assigned to an ability, item, situation, or anything else that can impact the outcome of a check.
-> **Action Score (AS):** The totaled scores for everything working in your character’s favor.
+> **Action Score (AS):** The totalled scores for everything working in your character’s favour.
 > **Action Table:** The table where you find your Action Score to determine which dice to roll.
-> **Action Score Result (ASR)**:  The result after the dice have been rolled and totaled.
-> **Difficulty Score(DS):** The totaled scores for everything working against your character.
+> **Action Score Result (ASR)**:  The result after the dice have been rolled and totalled.
+> **Difficulty Score(DS):** The totalled scores for everything working against your character.
 
 # Game Mechanics
 To resolve **checks** in CNRPG, use the steps listed below:
-1. The GM will set the difficulty score (anything that works against your characters favor)
-2. Set the Action Score, add the scores up that work in the characters favor
+1. The GM will set the difficulty score (anything that works against your characters favour)
+2. Set the Action Score, add the scores up that work in the characters favour
 3. Roll the dice.  Consult the Action Score Table which will tell you which dice to roll.  *Note: Dice are open ended.*
 4. Determine the result.  After the dice have been rolled, add them together to determine the Action Score Result.
 5. Compare - If the ASR is equal to or greater than the DS, you have succeeded at the check. 

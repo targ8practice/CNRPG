@@ -7,8 +7,8 @@
 |Mind|Intellect| Memory, thinking, learning, reasoning, problem-solving, consciousness, and sensory functions.|
 ||Creativity|Arts|
 ||Willpower|Willpower|
-|Spirit|Empathy|Compassion, empathy, altruism, wisdom, truth|
-||Presence| Stress response, fight or flight, controlling emotions, forming strong memories, personality|
+|Instinctive|Empathy|Compassion, empathy, altruism, wisdom, truth|
+||Presence| force of personality, diplomacy, intimidation, persusaion|
 ||Awareness|Alertness, attention, sensory processing|
 
 
@@ -20,7 +20,7 @@ Toughness is the ability to function and recover when faced with illness, accide
 The character’s motor skills, sense of balance, agility, and accuracy with ranged weapons are determined by their coordination. It is used for full-body activities such as acrobatics as well as actions requiring hand-eye-coordination, such as pick pocketing.
 **Mind**
 Mind is a representation of the character’s willpower, intellect, and creativity. It impacts the character’s ability to solve problems, recall information, and resist mental manipulation.
-**Spirit/Soul**
+**Instinctive**
 Spirit reflects the character’s empathy, presence, and awareness. It also represents the character’s inherent
 wisdom, force of personality, ability to quickly process sensory information, and retain their composure in
 stressful situations.

@@ -9,7 +9,7 @@
 ![[Base Difficulty Score.png]]
 
 ![[Attribute Score Example.png]]
-[[Attributes]]
+[[Attributes 2.0]]
 
 [[Skills]]
 
