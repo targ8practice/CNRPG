@@ -11,29 +11,13 @@
             "id": "4ae55ec714554f4e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Playtest/Playtest Alpha 02.canvas",
-                "viewState": {
-                  "x": -787.7155490417781,
-                  "y": 92.94932432802634,
-                  "zoom": -0.07650206342347332
-                }
-              }
-            }
-          },
-          {
-            "id": "b08201a927729660",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md"
+                "file": "Playtest/CNGH-CoreRules-v0.02.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md",
+                "file": "Playtest/CNGH-CoreRules-v0.02.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md",
+                "file": "Playtest/CNGH-CoreRules-v0.02.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md"
+                "file": "Playtest/CNGH-CoreRules-v0.02.pdf"
               }
             }
           },
@@ -167,25 +151,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b08201a927729660",
+  "active": "4ae55ec714554f4e",
   "lastOpenFiles": [
-    "Playtest/CNGH-CoreRules-v0.02.pdf",
-    "Combat.md",
     "Playtest/Playtest Campaign/Character Sheet V1.1.md",
+    "Playtest/CNGH-CoreRules-v0.02.pdf",
+    "Playtest/Playtest Alpha 02.canvas",
+    "Overview.md",
+    "Skills.md",
     "Attributes 2.0.md",
+    "Combat.md",
     "References/SWADE - Core Rulebook (v5.4).pdf",
     "References/Shadow of the Demon Lord (updated November 5th 2017 update bookmarks).pdf",
     "Modus Operandi (Class).md",
     "Playtest/Playtest Player's Guide.md",
     "References/Amaurea's Dawn.pdf",
     "Playtest/Playtest Campaign/Religion & Magic.md",
-    "Skills.md",
     "Playtest/Playtest Campaign/Character Sheet V1.md",
-    "Playtest/Playtest Alpha 02.canvas",
     "Playtest/CNRPG Alpha Playtest.pdf",
     "Playtest/Playtest Campaign/PZO9520E.pdf",
     "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
-    "Overview.md",
     "Playtest/Playtest Campaign/Online Sessions/Session Notes.md",
     "Images/Base Difficulty Score.png",
     "Images/Attribute Score Example.png",
@@ -206,7 +190,6 @@
     "obsidian-sync",
     "Playtest/Playtest rules.md",
     "Playtest/Playtest Campaign",
-    "Playtest",
     "Character Information.md",
     "Class/Profession.md"
   ]
