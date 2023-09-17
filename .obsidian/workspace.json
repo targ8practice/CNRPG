@@ -26,9 +26,9 @@
             "id": "b08201a927729660",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Playtest/CNGH-CoreRules-v0.02.pdf"
+                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md"
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playtest/CNGH-CoreRules-v0.02.pdf",
+                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playtest/CNGH-CoreRules-v0.02.pdf",
+                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playtest/CNGH-CoreRules-v0.02.pdf"
+                "file": "Playtest/Playtest Campaign/Character Sheet V1.1.md"
               }
             }
           },
@@ -167,8 +167,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef216dbb68d6b428",
+  "active": "b08201a927729660",
   "lastOpenFiles": [
+    "Playtest/CNGH-CoreRules-v0.02.pdf",
     "Combat.md",
     "Playtest/Playtest Campaign/Character Sheet V1.1.md",
     "Attributes 2.0.md",
