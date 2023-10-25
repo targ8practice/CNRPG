@@ -1,3 +1,13 @@
+Example Stats from YouTube
+
+| Attack | Damage | Defend | Armor | Vitality |
+| ------ | ------ | ------ | ----- | -------- |
+| 1      | 2      | 2      | 0     | 12       |
+Actions - Attack, Defend
+Loot/Equipment
+
+Special Abilities
+
 Monster Stats
 * Name
 	* Description
