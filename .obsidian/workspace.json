@@ -11,24 +11,25 @@
             "id": "4ae55ec714554f4e",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monsters & NPCS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84253ffe27fdc46a",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "Playtest/CNGH-CoreRules-v0.02.pdf"
               }
             }
-          },
-          {
-            "id": "a324161e4ed3a47f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playtest/CNGH-CoreRules-v0.02.pdf",
+                "file": "Monsters & NPCS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playtest/CNGH-CoreRules-v0.02.pdf",
+                "file": "Monsters & NPCS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playtest/CNGH-CoreRules-v0.02.pdf"
+                "file": "Monsters & NPCS.md"
               }
             }
           },
@@ -155,9 +156,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "f0ab7fe9b70c104f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -172,18 +181,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a324161e4ed3a47f",
+  "active": "4ae55ec714554f4e",
   "lastOpenFiles": [
-    "Playtest/Playtest Campaign/Character Sheet V1.1.md",
     "Playtest/CNGH-CoreRules-v0.02.pdf",
+    "Monsters & NPCS.md",
+    "CNRPG Playtest Modus Operandi Rules Module.md",
+    "Playtest Player's Guide Version 0.02.md",
+    "Modus Operandi (Class).md",
+    "Attributes 2.0.md",
+    "Images/Dice Mechanics Table.png",
+    "Playtest/Playtest Campaign/Character Sheet V1.1.md",
     "Playtest/Playtest Alpha 02.canvas",
     "Overview.md",
     "Skills.md",
-    "Attributes 2.0.md",
     "Combat.md",
     "References/SWADE - Core Rulebook (v5.4).pdf",
     "References/Shadow of the Demon Lord (updated November 5th 2017 update bookmarks).pdf",
-    "Modus Operandi (Class).md",
     "Playtest/Playtest Player's Guide.md",
     "References/Amaurea's Dawn.pdf",
     "Playtest/Playtest Campaign/Religion & Magic.md",
@@ -194,7 +207,6 @@
     "Playtest/Playtest Campaign/Online Sessions/Session Notes.md",
     "Images/Base Difficulty Score.png",
     "Images/Attribute Score Example.png",
-    "Images/Dice Mechanics Table.png",
     "Playtest/Playtest Campaign/Campaign Setting Overview.md",
     "Playtest/Playtest Campaign/Online Sessions",
     "Playtest/Playtest Campaign/CNRPG Playtest Players Guide.md",

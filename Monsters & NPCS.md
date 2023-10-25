@@ -14,7 +14,7 @@ Monster Stats
 * Offense
 	* Attack type (Difficulty score, bonus damage, Special Ability) *Description*
 * Defense
-	* Defences
+	* Defenses
 	* Armour
 * Special Abilities
 	* Special attacks
@@ -24,14 +24,15 @@ Example
 
 #### Wolf
 *Four legged canine with rugged fur, snarling mouth with sharp teeth that hunts in packs and trips/hamstrings its targets*
-Minion, Type(Animal), CR1
+Minion, Type(Animal)
 Health - 8
 Initiative - 4
 Movement - 30ft
-Offense 
-	Bite (DS 6, +1, Trip)  *Wolves love to bite and nip at their target in order to slow them down*
-	Howl (DS 4 -)
+Offensive Actions 
+	**Bite** (DS 6, +1, Trip)- *Wolves love to bite and nip at their target in order to slow them down.*  The target makes an Action Check (Difficulty score 6) to avoid being bitten by the Wolf. 
+	
 Defense (DS 4, +0)
 Special Abilities
-*  If the Wolf successfully Bites the target, they can make a DS 4 to attempt to Trip the target, if sucessful, the target is knocked prone
-How??
+*  Trip - If the Wolf successfully Bites, the target must make a DS 4 check to avoid being knocked prone.
+* Pack tactics - *Wolves hunt in packs, when multiple wolves attack a target, they can attack as a group.*  The target makes a single Action check but the difficulty score is increased by the amount of Wolves attacking the target.
+
