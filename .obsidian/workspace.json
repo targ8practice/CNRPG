@@ -57,6 +57,16 @@
                 "file": "Playtest/Playtest Campaign/PZO9520E.pdf"
               }
             }
+          },
+          {
+            "id": "1465aca2ccf95831",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Playtest/CNGH-CoreRules-v0.02.pdf"
+              }
+            }
           }
         ]
       }
@@ -199,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,11 +222,11 @@
   },
   "active": "1ac710d240d41a0f",
   "lastOpenFiles": [
-    "Monsters & NPCS.md",
-    "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
     "Playtest/Playtest Campaign/PZO9520E.pdf",
-    "CNGH_Character_Cheet_v0.011.pdf",
+    "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
     "Playtest/CNGH-CoreRules-v0.02.pdf",
+    "Monsters & NPCS.md",
+    "CNGH_Character_Cheet_v0.011.pdf",
     "Playtest/Playtest Campaign/Character Sheet V1.1.md",
     "Playtest/Playtest Campaign/Characters.md",
     "Playtest/Playtest Campaign/Character Sheet V1.md",
