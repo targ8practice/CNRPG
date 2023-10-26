@@ -4,67 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d214d806010dae79",
+        "id": "2c47323fd5b2877e",
         "type": "tabs",
         "children": [
           {
-            "id": "4ae55ec714554f4e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CNGH_Character_Cheet_v0.011.pdf"
-              }
-            }
-          },
-          {
-            "id": "1ac710d240d41a0f",
+            "id": "261830a850244a86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
+                "file": "One Day RPG/Campaign Setting.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bf710bd56a89d2ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monsters & NPCS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "faef7f5e9ca0da92",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e235ddd0f024c6b7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Playtest/Playtest Campaign/PZO9520E.pdf"
-              }
-            }
-          },
-          {
-            "id": "1465aca2ccf95831",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Playtest/CNGH-CoreRules-v0.02.pdf"
               }
             }
           }
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
+                "file": "One Day RPG/Campaign Setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
+                "file": "One Day RPG/Campaign Setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playtest/Playtest Campaign/Session notes - 28-10-23.md"
+                "file": "One Day RPG/Campaign Setting.md"
               }
             }
           },
@@ -220,13 +171,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ac710d240d41a0f",
+  "active": "261830a850244a86",
   "lastOpenFiles": [
-    "Playtest/Playtest Campaign/PZO9520E.pdf",
+    "References/Dark Sun 5E Campaign Guide - draft version 1.5.pdf",
+    "References/Dungeon Master's Guide.pdf",
+    "References/Sly Flourish's The Lazy DM's Companion.pdf",
+    "References/Sly Flourish's The Art of Fantastic Adventures.pdf",
+    "References/Sly Flourish's The Art of Fantastic Locations.pdf",
+    "References/Sly Flourish's The Lazy DM's Workbook.pdf",
+    "References/Sly Flourish's The Lazy Dungeon Master.pdf",
+    "References/Sly Flourish's Dungeon Master Tips.pdf",
+    "References/Sly Flourish's Return of the Lazy Dungeon Master.pdf",
+    "References/DnD 5e Players Handbook(Reconstructed, Cropped, Page Numbers Match, Updated Bookmarks, B&W, OCR)(1).pdf",
+    "References/ICRPG_Quickstart_2E_1.2.pdf",
+    "One Day RPG/Shattered Sky - CNRPG Campaign Setting.md",
+    "One Day RPG/Campaign Setting.md",
     "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
-    "Playtest/CNGH-CoreRules-v0.02.pdf",
     "Monsters & NPCS.md",
-    "CNGH_Character_Cheet_v0.011.pdf",
     "Playtest/Playtest Campaign/Character Sheet V1.1.md",
     "Playtest/Playtest Campaign/Characters.md",
     "Playtest/Playtest Campaign/Character Sheet V1.md",
@@ -239,31 +200,22 @@
     "Overview.md",
     "Skills.md",
     "Combat.md",
-    "References/SWADE - Core Rulebook (v5.4).pdf",
-    "References/Shadow of the Demon Lord (updated November 5th 2017 update bookmarks).pdf",
     "Playtest/Playtest Player's Guide.md",
-    "References/Amaurea's Dawn.pdf",
     "Playtest/Playtest Campaign/Religion & Magic.md",
-    "Playtest/CNRPG Alpha Playtest.pdf",
     "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
     "Playtest/Playtest Campaign/Online Sessions/Session Notes.md",
     "Images/Base Difficulty Score.png",
     "Images/Attribute Score Example.png",
     "Playtest/Playtest Campaign/Campaign Setting Overview.md",
-    "Playtest/Playtest Campaign/Online Sessions",
     "Playtest/Playtest Campaign/CNRPG Playtest Players Guide.md",
     "Images/Dice Probability Table.png",
     "Images/Skill Wheel.png",
-    "Images",
     "Lineage.md",
     "Character Details.md",
     "Pasted Image 20230724162347_663.png",
     "Pasted Image 20230724162314_661.png",
     "Cleric.md",
     "Playtest/Campaign Setting/Untitled Kanban.md",
-    "obsidian-sync",
-    "Playtest/Playtest rules.md",
-    "Character Information.md",
-    "Class/Profession.md"
+    "Playtest/Playtest rules.md"
   ]
 }
