@@ -271,7 +271,6 @@ You know how to get the best deal out of any situation, Add +1 AS when selling o
 This is the playtest rules for combat.
 ### Rounds & Turns
 Cool Name RPG tracks time in combat using Rounds and Turns. Each Round of combat every participant in the combat gets one Turn to act. Combatants act in the order of their initiative scores, with the highest initiative score going first, the next highest second, and so forth.
-
 ### Movement
 Each player will be able to move their character up to 30ft during their turn
 ### Actions per Round

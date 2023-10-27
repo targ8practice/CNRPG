@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One Day RPG/Campaign Setting.md",
+                "file": "Playtest Player's Guide Version 0.02.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a0c1ba9e97ade3be",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "One Day RPG/Campaign Setting.md",
+                "file": "Playtest Player's Guide Version 0.02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "One Day RPG/Campaign Setting.md",
+                "file": "Playtest Player's Guide Version 0.02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "One Day RPG/Campaign Setting.md"
+                "file": "Playtest Player's Guide Version 0.02.md"
               }
             }
           },
@@ -173,6 +174,7 @@
   },
   "active": "261830a850244a86",
   "lastOpenFiles": [
+    "One Day RPG/Campaign Setting.md",
     "References/Dark Sun 5E Campaign Guide - draft version 1.5.pdf",
     "References/Dungeon Master's Guide.pdf",
     "References/Sly Flourish's The Lazy DM's Companion.pdf",
@@ -183,9 +185,7 @@
     "References/Sly Flourish's Dungeon Master Tips.pdf",
     "References/Sly Flourish's Return of the Lazy Dungeon Master.pdf",
     "References/DnD 5e Players Handbook(Reconstructed, Cropped, Page Numbers Match, Updated Bookmarks, B&W, OCR)(1).pdf",
-    "References/ICRPG_Quickstart_2E_1.2.pdf",
     "One Day RPG/Shattered Sky - CNRPG Campaign Setting.md",
-    "One Day RPG/Campaign Setting.md",
     "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
     "Monsters & NPCS.md",
     "Playtest/Playtest Campaign/Character Sheet V1.1.md",
