@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playtest Player's Guide Version 0.02.md",
+                "file": "Monsters & NPCS.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a0c1ba9e97ade3be",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playtest Player's Guide Version 0.02.md",
+                "file": "Monsters & NPCS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playtest Player's Guide Version 0.02.md",
+                "file": "Monsters & NPCS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playtest Player's Guide Version 0.02.md"
+                "file": "Monsters & NPCS.md"
               }
             }
           },
@@ -174,6 +173,17 @@
   },
   "active": "261830a850244a86",
   "lastOpenFiles": [
+    "Overview.md",
+    "Playtest Player's Guide Version 0.02.md",
+    "Skills.md",
+    "Images/Skill Wheel.png",
+    "Images/Dice Probability Table.png",
+    "Images/Dice Mechanics Table.png",
+    "Images/Base Difficulty Score.png",
+    "Images/Attribute Score Example.png",
+    "Combat.md",
+    "CNRPG Playtest Modus Operandi Rules Module.md",
+    "CNGH_Character_Cheet_v0.011.pdf",
     "One Day RPG/Campaign Setting.md",
     "References/Dark Sun 5E Campaign Guide - draft version 1.5.pdf",
     "References/Dungeon Master's Guide.pdf",
@@ -184,32 +194,21 @@
     "References/Sly Flourish's The Lazy Dungeon Master.pdf",
     "References/Sly Flourish's Dungeon Master Tips.pdf",
     "References/Sly Flourish's Return of the Lazy Dungeon Master.pdf",
-    "References/DnD 5e Players Handbook(Reconstructed, Cropped, Page Numbers Match, Updated Bookmarks, B&W, OCR)(1).pdf",
     "One Day RPG/Shattered Sky - CNRPG Campaign Setting.md",
     "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
     "Monsters & NPCS.md",
     "Playtest/Playtest Campaign/Character Sheet V1.1.md",
     "Playtest/Playtest Campaign/Characters.md",
     "Playtest/Playtest Campaign/Character Sheet V1.md",
-    "CNRPG Playtest Modus Operandi Rules Module.md",
-    "Playtest Player's Guide Version 0.02.md",
     "Modus Operandi (Class).md",
     "Attributes 2.0.md",
-    "Images/Dice Mechanics Table.png",
     "Playtest/Playtest Alpha 02.canvas",
-    "Overview.md",
-    "Skills.md",
-    "Combat.md",
     "Playtest/Playtest Player's Guide.md",
     "Playtest/Playtest Campaign/Religion & Magic.md",
     "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
     "Playtest/Playtest Campaign/Online Sessions/Session Notes.md",
-    "Images/Base Difficulty Score.png",
-    "Images/Attribute Score Example.png",
     "Playtest/Playtest Campaign/Campaign Setting Overview.md",
     "Playtest/Playtest Campaign/CNRPG Playtest Players Guide.md",
-    "Images/Dice Probability Table.png",
-    "Images/Skill Wheel.png",
     "Lineage.md",
     "Character Details.md",
     "Pasted Image 20230724162347_663.png",
