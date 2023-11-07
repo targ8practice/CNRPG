@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "261830a850244a86",
+            "id": "44438cc1d4d64c1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Monsters & NPCS.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/CNRPG Dice proability Table.png"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a0c1ba9e97ade3be",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monsters & NPCS.md",
+                "file": "Images/CNRPG Dice proability Table.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monsters & NPCS.md",
+                "file": "Images/CNRPG Dice proability Table.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monsters & NPCS.md"
+                "file": "Images/CNRPG Dice proability Table.png"
               }
             }
           },
@@ -148,7 +147,7 @@
             }
           },
           {
-            "id": "f0ab7fe9b70c104f",
+            "id": "4752faf6c2731312",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -171,18 +170,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "261830a850244a86",
+  "active": "44438cc1d4d64c1a",
   "lastOpenFiles": [
-    "Overview.md",
-    "Playtest Player's Guide Version 0.02.md",
-    "Skills.md",
-    "Images/Skill Wheel.png",
+    "lu2807228139.tmp",
+    "Images/D&D 5E probability Table.png",
+    "lu2807228136.tmp",
+    "Images/CNRPG Dice proability Table.png",
     "Images/Dice Probability Table.png",
     "Images/Dice Mechanics Table.png",
+    "Images/Skill Wheel.png",
+    "Shattered Sky Campaign Setting.md",
+    "Skills.md",
+    "Playtest/Playtest Campaign/Characters.md",
+    "Playtest/Playtest Campaign/Religion & Magic.md",
+    "Playtest Player's Guide Version 0.02.md",
+    "Monsters & NPCS.md",
+    "Combat.md",
+    "Attributes 2.0.md",
+    "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
+    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
+    "Playtest/Playtest Campaign/Online Sessions/Session Notes.md",
+    "Playtest/Playtest Player's Guide.md",
+    "Playtest/Playtest Alpha 02.canvas",
+    "Overview.md",
+    "Dice Probability.ods",
+    "lu2807228133.tmp",
     "Images/Base Difficulty Score.png",
     "Images/Attribute Score Example.png",
-    "Combat.md",
     "CNRPG Playtest Modus Operandi Rules Module.md",
+    "Modus Operandi (Class).md",
     "CNGH_Character_Cheet_v0.011.pdf",
     "One Day RPG/Campaign Setting.md",
     "References/Dark Sun 5E Campaign Guide - draft version 1.5.pdf",
@@ -191,30 +207,16 @@
     "References/Sly Flourish's The Art of Fantastic Adventures.pdf",
     "References/Sly Flourish's The Art of Fantastic Locations.pdf",
     "References/Sly Flourish's The Lazy DM's Workbook.pdf",
-    "References/Sly Flourish's The Lazy Dungeon Master.pdf",
-    "References/Sly Flourish's Dungeon Master Tips.pdf",
-    "References/Sly Flourish's Return of the Lazy Dungeon Master.pdf",
     "One Day RPG/Shattered Sky - CNRPG Campaign Setting.md",
-    "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
-    "Monsters & NPCS.md",
     "Playtest/Playtest Campaign/Character Sheet V1.1.md",
-    "Playtest/Playtest Campaign/Characters.md",
     "Playtest/Playtest Campaign/Character Sheet V1.md",
-    "Modus Operandi (Class).md",
-    "Attributes 2.0.md",
-    "Playtest/Playtest Alpha 02.canvas",
-    "Playtest/Playtest Player's Guide.md",
-    "Playtest/Playtest Campaign/Religion & Magic.md",
     "Playtest/CNRPG Playtest Modus Operandi Rules Module.md",
-    "Playtest/Playtest Campaign/Online Sessions/Session Notes.md",
-    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
     "Playtest/Playtest Campaign/CNRPG Playtest Players Guide.md",
     "Lineage.md",
     "Character Details.md",
     "Pasted Image 20230724162347_663.png",
     "Pasted Image 20230724162314_661.png",
     "Cleric.md",
-    "Playtest/Campaign Setting/Untitled Kanban.md",
-    "Playtest/Playtest rules.md"
+    "Playtest/Campaign Setting/Untitled Kanban.md"
   ]
 }

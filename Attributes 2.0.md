@@ -36,4 +36,4 @@ stressful situations.
 | 5     | World Class         |
 
 **Starting Attributes**
-For our playtest, if you want to make your own character, you will begin with the following attribute scores: 2, 2, 3, 3, 4. Assign one of these numbers to each of your attributes.
+For our play-test, if you want to make your own character, you will begin with the following attribute scores: 2, 2, 3, 3, 4. Assign one of these numbers to each of your attributes.
