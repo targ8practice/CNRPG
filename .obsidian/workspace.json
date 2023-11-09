@@ -11,9 +11,11 @@
             "id": "44438cc1d4d64c1a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/CNRPG Dice proability Table.png"
+                "file": "CNRPG Playtest Modus Operandi Rules Module.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a0c1ba9e97ade3be",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/CNRPG Dice proability Table.png",
+                "file": "CNRPG Playtest Modus Operandi Rules Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/CNRPG Dice proability Table.png",
+                "file": "CNRPG Playtest Modus Operandi Rules Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/CNRPG Dice proability Table.png"
+                "file": "CNRPG Playtest Modus Operandi Rules Module.md"
               }
             }
           },
@@ -172,10 +173,20 @@
   },
   "active": "44438cc1d4d64c1a",
   "lastOpenFiles": [
-    "lu2807228139.tmp",
-    "Images/D&D 5E probability Table.png",
-    "lu2807228136.tmp",
+    "Playtest/CNGH-CoreRules-v0.03.pdf",
+    "Playtest/CNGH_Character_Cheet_v0.011.pdf",
+    "Playtest/The_Forgotten_Gate_-_CNGH_Playtest_Edition_v0.03.pdf",
+    "Playtest/CNGH-CoreRules-v0.03 (1).pdf",
+    "lu280722815x.tmp",
+    "lu280722815m.tmp",
+    "lu280722814r.tmp",
+    "lu280722814m.tmp",
+    "CNRPG Playtest Modus Operandi Rules Module.odt",
+    "lu280722814i.tmp",
+    "lu280722814e.tmp",
+    "Playtest Player's Guide Version 0.02.md",
     "Images/CNRPG Dice proability Table.png",
+    "Images/D&D 5E probability Table.png",
     "Images/Dice Probability Table.png",
     "Images/Dice Mechanics Table.png",
     "Images/Skill Wheel.png",
@@ -183,7 +194,6 @@
     "Skills.md",
     "Playtest/Playtest Campaign/Characters.md",
     "Playtest/Playtest Campaign/Religion & Magic.md",
-    "Playtest Player's Guide Version 0.02.md",
     "Monsters & NPCS.md",
     "Combat.md",
     "Attributes 2.0.md",
@@ -193,20 +203,11 @@
     "Playtest/Playtest Player's Guide.md",
     "Playtest/Playtest Alpha 02.canvas",
     "Overview.md",
-    "Dice Probability.ods",
-    "lu2807228133.tmp",
     "Images/Base Difficulty Score.png",
     "Images/Attribute Score Example.png",
     "CNRPG Playtest Modus Operandi Rules Module.md",
     "Modus Operandi (Class).md",
-    "CNGH_Character_Cheet_v0.011.pdf",
     "One Day RPG/Campaign Setting.md",
-    "References/Dark Sun 5E Campaign Guide - draft version 1.5.pdf",
-    "References/Dungeon Master's Guide.pdf",
-    "References/Sly Flourish's The Lazy DM's Companion.pdf",
-    "References/Sly Flourish's The Art of Fantastic Adventures.pdf",
-    "References/Sly Flourish's The Art of Fantastic Locations.pdf",
-    "References/Sly Flourish's The Lazy DM's Workbook.pdf",
     "One Day RPG/Shattered Sky - CNRPG Campaign Setting.md",
     "Playtest/Playtest Campaign/Character Sheet V1.1.md",
     "Playtest/Playtest Campaign/Character Sheet V1.md",
