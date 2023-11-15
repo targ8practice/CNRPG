@@ -1,4 +1,4 @@
-### Combat Conditions Rules Module
+### Combat Conditions
 During combat, there are other things you can do that will influence the outcome of who wins and who inflicts the decisive winning blow. Below are some examples of Conditions that you can inflict on an enemy target that will inhibit their ability to hurt you or your teammates.  Unless otherwise noted, inflicting conditions is considered a Major action and their effects last until the start of your next turn. What attributes, MO, and other factors is up to you to justify to the GM when inflicting a condition and the Difficulty Score will also depend on the same factors.
 
 | Condition   | Effect                                                                                                                                                                                                                                          |
@@ -11,4 +11,10 @@ During combat, there are other things you can do that will influence the outcome
 | **Deafened**    | Target cannot hear nor benefit from effects that require hearing                                                                                                                                                                                |
 | **Confused**    | Roll 1d6 (1-2 Do nothing, 3-4 act normal, 5-6 attack a random target in range)                                                                                                                                                                  |
 | **Stunned**     | Target can't take any actions   |
+
+### Defenses
+
+### Equipment
+
+
 

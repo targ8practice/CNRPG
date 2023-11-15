@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "2c47323fd5b2877e",
+        "id": "e4d2d919a2c2b236",
         "type": "tabs",
         "children": [
           {
-            "id": "0b587d97717e6970",
+            "id": "622859a989b9dde0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
+                "file": "Rules Modules/Combat Rules Module v 0.01.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d81fcf1729dc66d6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Core Rules/CNGH-CoreRules-v0.03.pdf"
+              }
+            }
+          },
+          {
+            "id": "b533f0c48a9f5213",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Core Rules/CNGH_Character_Cheet_v0.011.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400
+    "width": 422
   },
   "right": {
     "id": "a0c1ba9e97ade3be",
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
+                "file": "Core Rules/CNGH-CoreRules-v0.03.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
+                "file": "Core Rules/CNGH-CoreRules-v0.03.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playtest/Playtest Campaign/Session notes - 28-10-23.md"
+                "file": "Core Rules/CNGH-CoreRules-v0.03.pdf"
               }
             }
           },
@@ -148,7 +169,7 @@
             }
           },
           {
-            "id": "4752faf6c2731312",
+            "id": "fe13813eef1c1cbf",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -171,8 +192,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b587d97717e6970",
+  "active": "d81fcf1729dc66d6",
   "lastOpenFiles": [
+    "Core Rules/CNGH_Character_Cheet_v0.011.pdf",
+    "Core Rules/CNGH-CoreRules-v0.03.pdf",
+    "Rules Modules/Combat Rules Module v 0.01.md",
+    "Rules Modules/Modus Operandi Rules Module ver 0.01.md",
+    "Archive/CNRPG Playtest Modus Operandi Rules Module.md",
+    "Archive",
+    "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
     "Shattered Sky/Images/island sky.png",
     "Shattered Sky/Images/Sundered Sky.png",
     "Shattered Sky/Images/Steampunk.png",
@@ -184,20 +212,15 @@
     "Images/Sundered Sky.png",
     "Images/Death gate cycle reference.png",
     "Images/island sky.png",
-    "Images/Floating island.png",
     "Shattered Sky/Campaign Setting.md",
     "Shattered Sky",
     "References/Sly Flourish's The Lazy DM's Workbook.pdf",
     "References/Sly Flourish's The Lazy DM's Companion.pdf",
     "References/Sly Flourish's Return of the Lazy Dungeon Master.pdf",
     "References",
-    "Core Rules/CNGH-CoreRules-v0.02.pdf",
-    "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
-    "Rules Modules/Combat Conditions.md",
+    "Archive/CNGH-CoreRules-v0.02.pdf",
     "Skills.md",
     "Core Rules/CNGH_Character_Cheet_v0.011 1.pdf",
-    "Core Rules/CNRPG Alpha Playtest.pdf",
-    "Core Rules/CNGH-CoreRules-v0.03.pdf",
     "Playtest/Shattered Sky Campaign Setting.md",
     "Playtest/Playtest Player's Guide.md",
     "Playtest/Playtest Campaign/Campaign Setting Overview.md",
@@ -210,12 +233,10 @@
     "Playtest/Playtest Player's Guide Version 0.02.md",
     "Monsters & NPCS.md",
     "Attributes 2.0.md",
-    "Rules Modules/CNRPG Playtest Modus Operandi Rules Module 1.md",
     "Overview.md",
     "Modus Operandi (Class).md",
     "One Day RPG/Campaign Setting.md",
     "One Day RPG/Shattered Sky - CNRPG Campaign Setting.md",
-    "Rules Modules/CNRPG Playtest Modus Operandi Rules Module.md",
     "Playtest/Playtest Campaign/CNRPG Playtest Players Guide.md",
     "Lineage.md",
     "Character Details.md",
