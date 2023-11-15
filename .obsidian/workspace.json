@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "622859a989b9dde0",
+            "id": "d81fcf1729dc66d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules Modules/Combat Rules Module v 0.01.md",
+                "file": "Rules Modules/Modus Operandi Rules Module ver 0.01.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d81fcf1729dc66d6",
+            "id": "576b480ba2fbc6f3",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -28,19 +28,8 @@
                 "file": "Core Rules/CNGH-CoreRules-v0.03.pdf"
               }
             }
-          },
-          {
-            "id": "b533f0c48a9f5213",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Core Rules/CNGH_Character_Cheet_v0.011.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/CNGH-CoreRules-v0.03.pdf",
+                "file": "Rules Modules/Modus Operandi Rules Module ver 0.01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/CNGH-CoreRules-v0.03.pdf",
+                "file": "Rules Modules/Modus Operandi Rules Module ver 0.01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/CNGH-CoreRules-v0.03.pdf"
+                "file": "Rules Modules/Modus Operandi Rules Module ver 0.01.md"
               }
             }
           },
@@ -181,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,33 +182,32 @@
   },
   "active": "d81fcf1729dc66d6",
   "lastOpenFiles": [
-    "Core Rules/CNGH_Character_Cheet_v0.011.pdf",
-    "Core Rules/CNGH-CoreRules-v0.03.pdf",
+    "Shattered Sky/sundered-skies-pdf.pdf",
+    "Shattered Sky/Images/Sundered Sky.png",
+    "Shattered Sky/Campaign Setting.md",
+    "Shattered Sky/Images/Steampunk.png",
+    "Shattered Sky/Images/SkyShip.png",
+    "Shattered Sky/Images/Floating island.png",
+    "Shattered Sky/Images/Death gate cycle reference.png",
     "Rules Modules/Combat Rules Module v 0.01.md",
+    "Core Rules/CNGH-CoreRules-v0.03.pdf",
+    "Core Rules/CNGH_Character_Cheet_v0.011.pdf",
     "Rules Modules/Modus Operandi Rules Module ver 0.01.md",
     "Archive/CNRPG Playtest Modus Operandi Rules Module.md",
     "Archive",
     "Playtest/Playtest Campaign/Session notes - 28-10-23.md",
     "Shattered Sky/Images/island sky.png",
-    "Shattered Sky/Images/Sundered Sky.png",
-    "Shattered Sky/Images/Steampunk.png",
-    "Shattered Sky/Images/SkyShip.png",
-    "Shattered Sky/Images/Floating island.png",
-    "Shattered Sky/Images/Death gate cycle reference.png",
     "Shattered Sky/Images",
     "Images/Steampunk.png",
     "Images/Sundered Sky.png",
     "Images/Death gate cycle reference.png",
     "Images/island sky.png",
-    "Shattered Sky/Campaign Setting.md",
     "Shattered Sky",
     "References/Sly Flourish's The Lazy DM's Workbook.pdf",
     "References/Sly Flourish's The Lazy DM's Companion.pdf",
     "References/Sly Flourish's Return of the Lazy Dungeon Master.pdf",
     "References",
-    "Archive/CNGH-CoreRules-v0.02.pdf",
     "Skills.md",
-    "Core Rules/CNGH_Character_Cheet_v0.011 1.pdf",
     "Playtest/Shattered Sky Campaign Setting.md",
     "Playtest/Playtest Player's Guide.md",
     "Playtest/Playtest Campaign/Campaign Setting Overview.md",

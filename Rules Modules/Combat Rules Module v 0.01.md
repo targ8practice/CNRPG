@@ -12,9 +12,32 @@ During combat, there are other things you can do that will influence the outcome
 | **Confused**    | Roll 1d6 (1-2 Do nothing, 3-4 act normal, 5-6 attack a random target in range)                                                                                                                                                                  |
 | **Stunned**     | Target can't take any actions   |
 
-### Defenses
-
 ### Equipment
+#### Weapons & Armor
+All weapons and armor have a value that can be added to the Action Score, increase or decrease damage and a property.  
+
+| Weapon     | Attack | Damage | Properties |
+| ---------- | ------ | ------ | ---------- |
+| Dagger     | 0      | 0      |      Concealable      |
+| Sword, Short |        | 1      | Parry      |
+| Sword, Long  | 1 AS   | 1      | Parry      |
+| Club       |        | 1      | Parry      |
+| Broadsword | 1 DS   | 3      |            |
+| Flail      | 1      | 1      | Knockdown  |
 
 
+| Armor          | DR  | Properties |
+| -------------- | --- | ---------- |
+| Light          | 1   |            |
+| Medium         | 2   |            |
+| Heavy          | 3   |            |
+| Buckler        | 0   | Block      |
+| Shield, Medium | 1   | Block      |
+| Shield, Large  | 2   | Block      |
+
+##### Properties
+- Parry - Allows you to use Parry Defensive Action
+- Knockdown - If you succeed at inflicting the Knockdown Combat Condition, you may also deal damage
+- Block - Allows you to use the Block Defensive Action
+- Concealable - You can conceal this weapon
 
