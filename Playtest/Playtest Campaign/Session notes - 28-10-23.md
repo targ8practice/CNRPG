@@ -1,4 +1,27 @@
+# Room 1 The Tomb Entrance
 
+>As the heavy doors swing open, the faint light from outside reveals a long chamber with risen platforms on either side. A faded painting of Kassen is on the far wall. The room appears to be the site of a gruesome battle, with two bodies piled in the center and a number of skeletons scattered around. An echoing wail can be heard somewhere in the distance, beyond this foul chamber
+
+### Creatures 
+1 Skeletons, 1 Skeleton Champion
+
+**Skeleton**
+Minion, Undead
+Initiative - 5, Vitality - 7
+**Offensive**
+Actions:
+* Sword(DS 4, Damage 3, Melee): *The Skeleton strikes with its sword*
+**Defensive**
+* Sturdy Bones (DS 6(7), Armor 1): The skeletons Defense is increased by 1 when attacked by a piercing weapon
+
+**Skeleton Champion**
+Boss, Undead
+Initiative - 6, Vitality 20, WT 4
+**Offensive**
+Actions:
+* Giant Axe (DS 6, Damage 3, Melee): *This champion wields a 2 handed battle axe.*
+**Defensive**
+* Sturdy Bones (DS 6(7), Armor 1): The skeletons Defense is increased by 1 when attacked by a piercing weapon
 
 # Room 4 - Hungry Beetle
 *This small chamber is mostly empty, save for the body of a villager sprawled in the center.* Perched atop the corpse is a man-sized brown and yellow beetle, trying to push the corpse into the corner where a pile of trash and filth awaits. This beetle has lived in the dungeon for some time and was recently driven out of its home on the lower level by the undead. Since the attack, it has been feeding well and building a nest in this chamber. Creature: The beetle has become very territorial about this chamber, as it plans to lay eggs soon. It attacks anyone that enters, but does not pursue them out of this chamber
