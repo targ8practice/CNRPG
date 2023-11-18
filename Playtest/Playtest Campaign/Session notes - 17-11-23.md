@@ -19,7 +19,7 @@ Boss, Undead
 Initiative - 6, Vitality 20, WT 4
 **Offensive**
 Actions:
-* Giant Axe (DS 6, Damage 3, Melee): *This champion wields a 2 handed battle axe.*
+* Giant Axe (AS 5, Damage 3, Melee): *This champion wields a 2 handed battle axe.*
 **Defensive**
 * Sturdy Bones (DS 6(7), Armor 1): The skeletons Defense is increased by 1 when attacked by a piercing weapon
 
