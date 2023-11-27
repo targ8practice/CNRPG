@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "ed125139d018d43c",
         "type": "tabs",
         "children": [
@@ -17,13 +18,45 @@
           },
           {
             "id": "09e6807463c3c721",
+=======
+        "id": "b8da716933ff5239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42a75eff6e682e51",
+>>>>>>> 78efc502e25e858570c40eb6ce4bedd361e3ef4b
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Shattered Sky/Campaign Setting.md",
+<<<<<<< HEAD
+=======
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b39d383c8666b75b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules Modules/Modus Operandi Rules Module ver 0.02.md",
+>>>>>>> 78efc502e25e858570c40eb6ce4bedd361e3ef4b
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "874fe87f7270b1bb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Core Rules/CNGH-CoreRules-v0.03.pdf"
               }
             }
           }
@@ -94,7 +127,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Shattered Sky/Campaign Setting.md",
+=======
+                "file": "Rules Modules/Modus Operandi Rules Module ver 0.02.md",
+>>>>>>> 78efc502e25e858570c40eb6ce4bedd361e3ef4b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +148,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Shattered Sky/Campaign Setting.md",
+=======
+                "file": "Rules Modules/Modus Operandi Rules Module ver 0.02.md",
+>>>>>>> 78efc502e25e858570c40eb6ce4bedd361e3ef4b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +175,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Shattered Sky/Campaign Setting.md"
+=======
+                "file": "Rules Modules/Modus Operandi Rules Module ver 0.02.md"
+>>>>>>> 78efc502e25e858570c40eb6ce4bedd361e3ef4b
               }
             }
           },
@@ -180,6 +225,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "09e6807463c3c721",
   "lastOpenFiles": [
     "Shattered Sky/sundered-skies-pdf.pdf",
@@ -191,6 +237,18 @@
     "Playtest/Playtest Player's Guide Version 0.02.md",
     "Playtest/Playtest Player's Guide.md",
     "Rules Modules/Combat Rules Module v 0.01.md",
+=======
+  "active": "b39d383c8666b75b",
+  "lastOpenFiles": [
+    "Shattered Sky/Adventure.md",
+    "Shattered Sky/Campaign Setting.md",
+    "Rules Modules/Combat Rules Module v 0.02.md",
+    "Core Rules/CNGH-CoreRules-v0.03.pdf",
+    "Rules Modules/Combat Rules Module v 0.01.md",
+    "Playtest/Playtest Player's Guide Version 0.02.md",
+    "Rules Modules/Modus Operandi Rules Module ver 0.02.md",
+    "Playtest/Playtest Campaign/Session notes - 17-11-23.md",
+>>>>>>> 78efc502e25e858570c40eb6ce4bedd361e3ef4b
     "Playtest/Playtest Campaign/PZO9520E.pdf",
     "Playtest/Playtest Campaign/Session notes - 17-11-23.md",
     "Rules Modules/Modus Operandi Rules Module ver 0.02.md",
@@ -202,7 +260,6 @@
     "Playtest/Playtest Campaign/token_1.png",
     "Core Rules/World_of_Aetaltis_Players_Guide.pdf",
     "Shattered Sky/Images/Sundered Sky.png",
-    "Shattered Sky/Campaign Setting.md",
     "Shattered Sky/Images/Steampunk.png",
     "Shattered Sky/Images/SkyShip.png",
     "Shattered Sky/Images/Floating island.png",
