@@ -216,7 +216,7 @@ Warriors are trained for one mission—to defeat the enemy in battle! They engag
 ### Wizard
 Masters of the arcane arts, wizards are powerful spellcasters and keepers of forbidden lore. They are privy to the metaphysical secrets of the universe and the magical forces at play in the world. They have knowledge of magical and magically altered beasts, basic skills in alchemy, and can sense the presence of magic and possibly identify its nature. 
 **Special Feature:** Arcane Power
-**Suggested Foci:** Spellcating(Arcane), Enchanting, Alchemy, Arcana
+**Suggested Foci:** Spellcasting (Arcane), Enchanting, Alchemy, Arcana
 
 ## Modus Operandi Special Features Rules Module
 
