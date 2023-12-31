@@ -1,62 +1,59 @@
 {
   "main": {
-    "id": "d64665beb8e9216a",
+    "id": "4d0da8198e542d26",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "ed125139d018d43c",
+        "id": "0b7fee5939f4c230",
         "type": "tabs",
         "children": [
           {
-            "id": "77756ca70e73ae89",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "09e6807463c3c721",
-=======
-        "id": "b8da716933ff5239",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "42a75eff6e682e51",
->>>>>>> 78efc502e25e858570c40eb6ce4bedd361e3ef4b
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shattered Sky/Campaign Setting.md",
-<<<<<<< HEAD
-=======
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b39d383c8666b75b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules Modules/Modus Operandi Rules Module ver 0.02.md",
->>>>>>> 78efc502e25e858570c40eb6ce4bedd361e3ef4b
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "874fe87f7270b1bb",
+            "id": "9bcaddd508bb992f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Core Rules/CNGH-CoreRules-v0.03.pdf"
+              }
+            }
+          },
+          {
+            "id": "e32f0e5f4b948419",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Core Rules/The_Forgotten_Gate_-_CNGH_Playtest_Edition_v0.03.pdf"
+              }
+            }
+          },
+          {
+            "id": "fd32eb4d7e29f2e9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Core Rules/World of Aetaltis - Gamemasters Guide.pdf"
+              }
+            }
+          },
+          {
+            "id": "526a292671ae2685",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Core Rules/World of Aetaltis - Adventurer's Guide.pdf"
+              }
+            }
+          },
+          {
+            "id": "4ddfc3de9e1ae6f8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "References/World_of_Aetaltis_Players_Guide.pdf"
               }
             }
           }
@@ -67,15 +64,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fc04696eea12578f",
+    "id": "e7604b4f5022fd40",
     "type": "split",
     "children": [
       {
-        "id": "4387457602da6ef2",
+        "id": "8226e480564e43a0",
         "type": "tabs",
         "children": [
           {
-            "id": "4676990e85729e85",
+            "id": "399a639ac956a085",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -85,7 +82,7 @@
             }
           },
           {
-            "id": "d1121277025244ac",
+            "id": "76d3f3e9bde1f67a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -100,7 +97,7 @@
             }
           },
           {
-            "id": "8a5e05f844a25035",
+            "id": "174b859c1df89d6a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -111,27 +108,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422
+    "width": 300
   },
   "right": {
-    "id": "a0c1ba9e97ade3be",
+    "id": "d8af5bd970e21b7d",
     "type": "split",
     "children": [
       {
-        "id": "4d68e39eac5d2aed",
+        "id": "26ee3c18920fc6df",
         "type": "tabs",
         "children": [
           {
-            "id": "ee44cd3ae99578a3",
+            "id": "720ef4a56dc828b2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Shattered Sky/Campaign Setting.md",
-=======
-                "file": "Rules Modules/Modus Operandi Rules Module ver 0.02.md",
->>>>>>> 78efc502e25e858570c40eb6ce4bedd361e3ef4b
+                "file": "Core Rules/The_Forgotten_Gate_-_CNGH_Playtest_Edition_v0.03.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,23 +136,19 @@
             }
           },
           {
-            "id": "bbe62a8d5a92f485",
+            "id": "f29ec99205656abb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Shattered Sky/Campaign Setting.md",
-=======
-                "file": "Rules Modules/Modus Operandi Rules Module ver 0.02.md",
->>>>>>> 78efc502e25e858570c40eb6ce4bedd361e3ef4b
+                "file": "Core Rules/The_Forgotten_Gate_-_CNGH_Playtest_Edition_v0.03.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e5ca98f2e1d40647",
+            "id": "e928834d1d455350",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -170,21 +159,29 @@
             }
           },
           {
-            "id": "ef216dbb68d6b428",
+            "id": "e2ceab4b42459297",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "all-properties",
               "state": {
-<<<<<<< HEAD
-                "file": "Shattered Sky/Campaign Setting.md"
-=======
-                "file": "Rules Modules/Modus Operandi Rules Module ver 0.02.md"
->>>>>>> 78efc502e25e858570c40eb6ce4bedd361e3ef4b
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
           {
-            "id": "3c0eab0aba15c335",
+            "id": "279f4666e5ce3a8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Core Rules/The_Forgotten_Gate_-_CNGH_Playtest_Edition_v0.03.pdf"
+              }
+            }
+          },
+          {
+            "id": "ff7a2b205d9190ef",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -192,17 +189,7 @@
             }
           },
           {
-            "id": "f1ecbbd7b8e51994",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "fe13813eef1c1cbf",
+            "id": "88752e0e923a2ae6",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -210,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -219,71 +206,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "canvas:Create new canvas": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-<<<<<<< HEAD
-  "active": "09e6807463c3c721",
+  "active": "e32f0e5f4b948419",
   "lastOpenFiles": [
-    "Shattered Sky/sundered-skies-pdf.pdf",
-    "5E Test Encounter Folder/5e Test Encounter.md",
-    "5E Test Encounter Folder",
-    "5E Test Encounter Folder/Pasted image 20231123223038.png",
-    "5E Test Encounter Folder/Pasted image 20231123215153.png",
+    "Core Rules/World of Aetaltis - Gamemasters Guide.pdf",
+    "Core Rules/The_Forgotten_Gate_-_CNGH_Playtest_Edition_v0.03.pdf",
+    "Core Rules/World of Aetaltis - Adventurer's Guide.pdf",
+    "References/World_of_Aetaltis_Players_Guide.pdf",
+    "References/world-of-aetaltis-gamemaster's guide.pdf",
     "Core Rules/CNGH-CoreRules-v0.03.pdf",
-    "Playtest/Playtest Player's Guide Version 0.02.md",
-    "Playtest/Playtest Player's Guide.md",
-    "Rules Modules/Combat Rules Module v 0.01.md",
-=======
-  "active": "b39d383c8666b75b",
-  "lastOpenFiles": [
-    "Shattered Sky/Adventure.md",
-    "Shattered Sky/Campaign Setting.md",
     "Rules Modules/Combat Rules Module v 0.02.md",
-    "Core Rules/CNGH-CoreRules-v0.03.pdf",
-    "Rules Modules/Combat Rules Module v 0.01.md",
+    "Archive/Playtest Player's Guide.md",
     "Playtest/Playtest Player's Guide Version 0.02.md",
-    "Rules Modules/Modus Operandi Rules Module ver 0.02.md",
     "Playtest/Playtest Campaign/Session notes - 17-11-23.md",
->>>>>>> 78efc502e25e858570c40eb6ce4bedd361e3ef4b
-    "Playtest/Playtest Campaign/PZO9520E.pdf",
-    "Playtest/Playtest Campaign/Session notes - 17-11-23.md",
+    "Playtest/Playtest Campaign/token_2.png",
+    "Playtest/Playtest Campaign/Forgotten Gate/The Forgotten Gate Playtest.md",
+    "Core Rules/pdf-aetaltis-world-of-aetaltis-gamemasteramp39s-guide_compress.pdf",
+    "Core Rules/anyflip_output.pdf",
+    "Archive/Combat Rules Module v 0.01.md",
     "Rules Modules/Modus Operandi Rules Module ver 0.02.md",
     "Core Rules/CNGH_Character_Cheet_v0.011.pdf",
-    "Core Rules/The_Forgotten_Gate_-_CNGH_Playtest_Edition_v0.03.pdf",
-    "Playtest/Playtest Campaign/Forgotten Gate/The Forgotten Gate Playtest.md",
-    "Playtest/Playtest Campaign/Forgotten Gate",
-    "Playtest/Playtest Campaign/token_2.png",
-    "Playtest/Playtest Campaign/token_1.png",
+    "Archive/Character Sheet V1.md",
+    "Archive/Character Sheet V1.1.md",
+    "Shattered Sky/Shattered Sky Campaign Setting.md",
+    "Playtest/Playtest Campaign/PZO9520E.pdf",
+    "5E Test Encounter Folder/5e Test Encounter.md",
+    "5E Test Encounter Folder/Pasted image 20231123223038.png",
+    "5E Test Encounter Folder/Pasted image 20231123215153.png",
     "Core Rules/World_of_Aetaltis_Players_Guide.pdf",
-    "Shattered Sky/Images/Sundered Sky.png",
-    "Shattered Sky/Images/Steampunk.png",
-    "Shattered Sky/Images/SkyShip.png",
-    "Shattered Sky/Images/Floating island.png",
-    "Shattered Sky/Images/Death gate cycle reference.png",
-    "Archive/CNRPG Playtest Modus Operandi Rules Module.md",
-    "Archive",
-    "Shattered Sky/Images/island sky.png",
-    "Shattered Sky/Images",
-    "Skills.md",
-    "Playtest/Shattered Sky Campaign Setting.md",
-    "Playtest/Playtest Campaign/Campaign Setting Overview.md",
-    "Playtest/Playtest Campaign/Online Sessions/Session Notes.md",
-    "Playtest/Playtest Alpha 02.canvas",
-    "Playtest/Playtest Campaign/Character Sheet V1.1.md",
-    "Playtest/Playtest Campaign/Religion & Magic.md",
-    "Playtest/Playtest Campaign/Characters.md",
-    "Playtest/Playtest Campaign/Character Sheet V1.md",
-    "Monsters & NPCS.md",
-    "Attributes 2.0.md",
-    "Overview.md",
-    "Modus Operandi (Class).md",
-    "One Day RPG/Campaign Setting.md",
-    "One Day RPG/Shattered Sky - CNRPG Campaign Setting.md",
-    "Playtest/Playtest Campaign/CNRPG Playtest Players Guide.md",
-    "Lineage.md"
+    "img/adventure/PaBTSO/000-00-001.intro-splash.webp.md",
+    "Shattered Sky/Phandelver and Below The Shattered Obelisk.md",
+    "Shattered Sky/Campaign Setting.md",
+    "Shattered Sky/Adventure.md"
   ]
 }
