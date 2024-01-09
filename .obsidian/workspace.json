@@ -4,61 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0b7fee5939f4c230",
+        "id": "af177da14e86409a",
         "type": "tabs",
         "children": [
           {
-            "id": "9bcaddd508bb992f",
+            "id": "22605bf98c152c0e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Core Rules/CNGH-CoreRules-v0.03.pdf"
-              }
-            }
-          },
-          {
-            "id": "e32f0e5f4b948419",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Core Rules/The_Forgotten_Gate_-_CNGH_Playtest_Edition_v0.03.pdf"
-              }
-            }
-          },
-          {
-            "id": "fd32eb4d7e29f2e9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Core Rules/World of Aetaltis - Gamemasters Guide.pdf"
-              }
-            }
-          },
-          {
-            "id": "526a292671ae2685",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Core Rules/World of Aetaltis - Adventurer's Guide.pdf"
-              }
-            }
-          },
-          {
-            "id": "4ddfc3de9e1ae6f8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "References/World_of_Aetaltis_Players_Guide.pdf"
+                "file": "Rules Modules/Magic Rules Module v0.01.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 348
   },
   "right": {
     "id": "d8af5bd970e21b7d",
@@ -124,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/The_Forgotten_Gate_-_CNGH_Playtest_Edition_v0.03.pdf",
+                "file": "Rules Modules/Magic Rules Module v0.01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/The_Forgotten_Gate_-_CNGH_Playtest_Edition_v0.03.pdf",
+                "file": "Rules Modules/Magic Rules Module v0.01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/The_Forgotten_Gate_-_CNGH_Playtest_Edition_v0.03.pdf"
+                "file": "Rules Modules/Magic Rules Module v0.01.md"
               }
             }
           },
@@ -212,36 +173,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e32f0e5f4b948419",
+  "active": "22605bf98c152c0e",
   "lastOpenFiles": [
-    "Core Rules/World of Aetaltis - Gamemasters Guide.pdf",
-    "Core Rules/The_Forgotten_Gate_-_CNGH_Playtest_Edition_v0.03.pdf",
-    "Core Rules/World of Aetaltis - Adventurer's Guide.pdf",
-    "References/World_of_Aetaltis_Players_Guide.pdf",
-    "References/world-of-aetaltis-gamemaster's guide.pdf",
-    "Core Rules/CNGH-CoreRules-v0.03.pdf",
     "Rules Modules/Combat Rules Module v 0.02.md",
-    "Archive/Playtest Player's Guide.md",
-    "Playtest/Playtest Player's Guide Version 0.02.md",
-    "Playtest/Playtest Campaign/Session notes - 17-11-23.md",
-    "Playtest/Playtest Campaign/token_2.png",
-    "Playtest/Playtest Campaign/Forgotten Gate/The Forgotten Gate Playtest.md",
-    "Core Rules/pdf-aetaltis-world-of-aetaltis-gamemasteramp39s-guide_compress.pdf",
-    "Core Rules/anyflip_output.pdf",
-    "Archive/Combat Rules Module v 0.01.md",
-    "Rules Modules/Modus Operandi Rules Module ver 0.02.md",
-    "Core Rules/CNGH_Character_Cheet_v0.011.pdf",
-    "Archive/Character Sheet V1.md",
-    "Archive/Character Sheet V1.1.md",
-    "Shattered Sky/Shattered Sky Campaign Setting.md",
-    "Playtest/Playtest Campaign/PZO9520E.pdf",
-    "5E Test Encounter Folder/5e Test Encounter.md",
+    "Rules Modules/Magic Rules Module v0.01.md",
+    "Playtest/Forgotten Gate/The_Forgotten_Gate_-_CNGH_Playtest_Edition_v0.03.pdf",
     "5E Test Encounter Folder/Pasted image 20231123223038.png",
     "5E Test Encounter Folder/Pasted image 20231123215153.png",
-    "Core Rules/World_of_Aetaltis_Players_Guide.pdf",
-    "img/adventure/PaBTSO/000-00-001.intro-splash.webp.md",
-    "Shattered Sky/Phandelver and Below The Shattered Obelisk.md",
+    "5E Test Encounter Folder/5e Test Encounter.md",
+    "References/world-of-aetaltis-gamemaster's guide.pdf",
+    "Core Rules/World of Aetaltis - Gamemasters Guide.pdf",
+    "Shattered Sky/Shattered Sky Campaign Setting.md",
     "Shattered Sky/Campaign Setting.md",
-    "Shattered Sky/Adventure.md"
+    "Shattered Sky/sundered-skies-pdf.pdf",
+    "Shattered Sky/Images/Sundered Sky.png",
+    "Shattered Sky/Images/Steampunk.png",
+    "Shattered Sky/Images/SkyShip.png",
+    "Shattered Sky/Images/island sky.png",
+    "Shattered Sky/Images/Floating island.png",
+    "Shattered Sky/Images/Death gate cycle reference.png",
+    "Shattered Sky/Adventure.md",
+    "Shattered Sky/scribd.vdownloaders.com_phandelver-and-below-the-shattered-obelisk.pdf",
+    "Shattered Sky/Phandelver and Below The Shattered Obelisk.md",
+    "Playtest/Playtest Player's Guide Version 0.02.md",
+    "Untitled.canvas",
+    "Playtest/Forgotten Gate/Forgotten Gate Overview.md",
+    "Playtest/Forgotten Gate",
+    "Playtest/Crypt of the Everflame/Session notes - 17-11-23.md",
+    "Playtest/Crypt of the Everflame/token_2.png",
+    "Core Rules/CNGH-CoreRules-v0.03.pdf",
+    "Core Rules/World of Aetaltis - Adventurer's Guide.pdf",
+    "References/World_of_Aetaltis_Players_Guide.pdf",
+    "Archive/Playtest Player's Guide.md",
+    "Playtest/Playtest Campaign/Forgotten Gate/The Forgotten Gate Playtest.md",
+    "Core Rules/pdf-aetaltis-world-of-aetaltis-gamemasteramp39s-guide_compress.pdf",
+    "Archive/Combat Rules Module v 0.01.md",
+    "Rules Modules/Modus Operandi Rules Module ver 0.02.md",
+    "Archive/Character Sheet V1.md",
+    "Archive/Character Sheet V1.1.md",
+    "img/adventure/PaBTSO/000-00-001.intro-splash.webp.md"
   ]
 }

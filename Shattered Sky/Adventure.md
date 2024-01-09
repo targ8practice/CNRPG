@@ -1,8 +1,8 @@
 ### Session 0/1
-Character Creation, Campaign Setting intro, outilne of the upcoming adventure.  
+Character Creation, Campaign Setting intro, outline of the upcoming adventure.  
 
 ####  Kicking off with a Bang
-Adventure kicks off with an explosion in a labaroity.  PLayers must investigate to determine the cause and solution to the problem
+Adventure kicks off with an explosion in a labratory.  PLayers must investigate to determine the cause and solution to the problem
 
 ### Session 2  
 #### A series of clues
